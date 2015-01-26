@@ -1,8 +1,8 @@
-//Ryan Postma CMP 344
-//Im doing the grades problem. 
-//Have to create a grades object to store a set of student grades in an object
-//make a function to add a grade
-//make a function that will display the average
+//Ryan Postma
+//CMP 344 
+//Chapter 2 grades exercise
+//displays the grades and average of a student
+//1/26/15
 
 
 //the student object
